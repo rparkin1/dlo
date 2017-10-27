@@ -1,0 +1,2 @@
+2017-10-27 11:17:47,668 I load_vocabulary	analytics.py:25	5039 symbols loaded from /home/rob/code/dlo/datasets/10k/vocabulary.idx
+2017-10-27 11:17:47,669 I load_vocabulary	analytics.py:25	16 symbols loaded from /home/rob/code/dlo/datasets/10k/shortlist.idx
