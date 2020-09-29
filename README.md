@@ -6,4 +6,5 @@ Based on this [paper](https://link.springer.com/chapter/10.1007/978-3-319-49004-
 during the instllation via the `--process-dependency-links` directive:
 
   $ pip install --process-dependency-links https://github.com/petrux/dlo.git
+  $ pip install git+https://github.com/petrux/LiTeFlow.git@master
 
